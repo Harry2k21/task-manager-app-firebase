@@ -1,3 +1,7 @@
+Created a React Js Application and Connected it with a Firebase Databbase
+
+![Alt text](relative/path/to/TaskMangerSS.jpg?raw=true "Title")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
