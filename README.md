@@ -1,6 +1,6 @@
 Created a React Js Application and Connected it with a Firebase Databbase
 
-![Alt text](relative/path/to/TaskMangerSS.jpg?raw=true "Title")
+![Alt text](relative/path/to/TaskmanagerSS.png?raw=true "Title")
 
 # Getting Started with Create React App
 
